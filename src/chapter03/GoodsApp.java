@@ -9,7 +9,7 @@ public class GoodsApp {
 		Goods goods = new Goods();
 		goods.setCountSold(100);
 		goods.setCountStock(200);
-		goods.setName("ball");
+
 		goods.setPrice(50000);
 		
 		
